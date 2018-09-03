@@ -4,10 +4,12 @@
 
 Using LeNet CNN architecture and OpenCV to detect Smiles in real-time using your own webcam. Just run the Jupyter notebook associated with this repository. Recieved lots of help implementing this project through the book "Deep Learning for Computer Vision with Python" by Dr. Adrian Rosebrock.
 
+ps : Inspired by https://github.com/JamesPNacino/Smiles-Detector
+
 Below is what it looks like:
 
-![alt text](https://github.com/JamesPNacino/Smiles-Detector/blob/master/Not%20Smiling.PNG)
-![alt text](https://github.com/JamesPNacino/Smiles-Detector/blob/master/Smiling.PNG)
+![alt text](https://github.com/eboutahir/smiledetection/blob/master/not%20smiling.PNG)
+![alt text](https://github.com/eboutahir/smiledetection/blob/master/Smiling.PNG)
 
 ## Python Packages 
 
@@ -36,7 +38,7 @@ To implement this code and train the models in this project you would have to fo
 Setting up CUDA GPU computing with Tensorflow
 In this following video are the steps I took to use get my GPU to start training neural networks. https://www.youtube.com/watch?v=io6Ajf5XkaM
 
-I have used a NVIDIA GTX 1070 GPU for this project to speed up computing times.
+I have used a NVIDIA GT 630M GPU for this project to speed up computing times.
 
 ## Data Required for this project
 https://github.com/opencv/opencv
